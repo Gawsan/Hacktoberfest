@@ -1,1 +1,1 @@
-In the project file you can contribute java projects
+In the project file you can contribute c++ projects
