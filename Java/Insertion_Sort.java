@@ -1,5 +1,4 @@
 // Insertion sort in Java
-//#3
 
 import java.util.Arrays;
 
