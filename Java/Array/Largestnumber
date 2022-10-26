@@ -20,7 +20,7 @@ class Test
 		return max;
 	}
 	
-	// Driver method
+	
 	public static void main(String[] args)
 	{
 		System.out.println("Largest in given array is " + largest());
