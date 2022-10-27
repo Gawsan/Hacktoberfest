@@ -5,6 +5,7 @@ This repository for beginners and expert to win hactoberfest swags
 <li>Create branch </li>
 <li>Add your codes with correct folder</li>
 <li>Create pull request with hactoberfest label</li>
+<li>Give star for this repo</li>
 </ol>
 
 # Happy Swags For All
